@@ -10,4 +10,4 @@ It is necessary to install the following packages in R to run the app:
 - gtools
 - visNetwork
 
-You can do it automatically by running the script "install_packages.R" included on the project. 
+You can do it automatically by running the script "install_packages.R" included on the project with the command "source("install_packages.R")". 
